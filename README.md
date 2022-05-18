@@ -12,6 +12,7 @@ Será necessário:<br/>
  - Baixar e instalar Pandas e Selenium via PIP<br/>
 
 ### 🎲 Executando o Código
+Salve o arquivo como 'linkedinmbausp.csv' no diretorio raiz
 
 ```bash
 $ py main.py

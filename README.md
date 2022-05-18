@@ -2,6 +2,9 @@
 
 <h1 align="center">Conectar via automacao</h1>
 
+<h3> ATENÇÃO</h3>
+ <h4><b>Código compartilhado para fins academicos, não me responsabilizo por uso indevidos ou bloqueios de redes sociais</b></h4>
+
 <h3> Pré requisitos</h3>
 Será necessário:<br/>
  - Uma maquina com Python instalado <br/>
